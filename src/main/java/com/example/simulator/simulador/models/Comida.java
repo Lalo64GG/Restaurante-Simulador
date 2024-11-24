@@ -1,4 +1,4 @@
-package com.example.simulator;
+package com.example.simulator.simulador.models;
 
 public class Comida {
     private Orden orden;
